@@ -1,0 +1,39 @@
+body{
+    background-color: #0b2d86;
+}
+.navbar {
+    background-color: #000;
+    padding: 15px; /* Adiciona algum espaço ao redor do texto */
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: grey;
+}
+.spacer {
+    height: 30px;
+}
+div{
+    color: white;
+}
+h1{
+    color:white;
+}
